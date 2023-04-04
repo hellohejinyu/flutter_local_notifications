@@ -13,8 +13,7 @@ public class ScheduledNotificationBootReceiver extends BroadcastReceiver {
   public void onReceive(final Context context, Intent intent) {
     String action = intent.getAction();
     if (action != null) {
-      if (action.equals(Intent.ACTION_MY_PACKAGE_REPLACED)
-          || action.equals("android.intent.action.QUICKBOOT_POWERON")
+      if (action.equals("android.intent.action.QUICKBOOT_POWERON")
           || action.equals("com.htc.intent.action.QUICKBOOT_POWERON")) {
         FlutterLocalNotificationsPlugin.rescheduleNotifications(context);
       }
