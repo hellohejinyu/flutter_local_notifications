@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-53.0.0",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-58.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/analyzer-5.5.0",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/analyzer-5.10.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "archive",
@@ -51,7 +51,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/built_value-8.4.3",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/built_value-8.4.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -93,9 +93,9 @@
     },
     {
       "name": "dart_style",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/dart_style-2.2.4",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/dart_style-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "dbus",
@@ -141,7 +141,7 @@
     },
     {
       "name": "flutter_local_notifications_linux",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-3.0.0",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/flutter_local_notifications_linux-3.0.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -201,9 +201,9 @@
     },
     {
       "name": "mockito",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/mockito-5.3.2",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/mockito-5.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "package_config",
@@ -231,9 +231,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.3",
+      "rootUri": "file:///Users/Jinyu/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "process",
@@ -362,7 +362,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2023-02-18T01:42:10.166953Z",
+  "generated": "2023-04-04T03:33:14.896930Z",
   "generator": "pub",
-  "generatorVersion": "2.19.2"
+  "generatorVersion": "2.19.6"
 }
